@@ -1,0 +1,3 @@
+D:/2SemesterC++Labs/FirstLab/cmake-build-debug/CMakeFiles/FirstLab.dir
+D:/2SemesterC++Labs/FirstLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/2SemesterC++Labs/FirstLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
